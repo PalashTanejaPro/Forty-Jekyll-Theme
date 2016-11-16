@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: Hi, my name is Palash
-description: 
+description: And this is my website.
 image: 
 author: 
 nav-menu: 
